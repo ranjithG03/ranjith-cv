@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/cv.typ/main/cv.typ.schema.json
 
 personal:
-  name: Waseem Riaz
-  email: waseem.riaz.9999@gmail.com
-  phone: (+91) 86965 03303
+  name: Ranjith Kumar Govindasu
+  email: ranjith.govindasu@gmail.com
+  phone: (+91) 73861 42724
   url: 
   location:
     city: Chennai
@@ -12,25 +12,24 @@ personal:
     country: India
   profiles:
     - network: LinkedIn
-      username: Waseem Riaz
-      url: https://linkedin.com/in/waseem-riaz
+      username: Ranjith Kumar
+      url: https://www.linkedin.com/in/ranjithGkumar/
     - network: GitHub
-      username: waseemR02
-      url: https://github.com/waseemR02
+      username: ranjithG03
+      url: https://github.com/ranjithG03
 
-about: Currently enrolled as 3rd year student. Enthusiastic and well‑organized developer. Worked on projects involving robotics, rover, embedded systems, ROS2 and deeplearning.
+about: Currently enrolled as 3rd year student.Hardworking and exploring new things.
 
 work:
-  - organization: Siemens Technology and Services Pvt. Ltd.
-    url: https://www.siemens.com/in/en.html
-    location: Bangalore, India
+  - organization: 
+    url: 
+    location: 
     positions:
-      - position: Intern at PAMC
-        startDate: 2024-01-08
-        endDate: "present"
+      - position: 
+        startDate: 
+        endDate: 
         highlights:
-          # Creating seiri: an automation tool which is a cross-platfrom automation tool for handling csv <-> xlsx conversions and validating them
-          - Working on developing a cross-platform automation tool for handling csv$arrow.l.r.double$xlsx conversions and validating them
+        
 education:
   - institution: SRM Institute of Science and Technology
     url: https://www.srmist.edu.in/
