@@ -13,12 +13,12 @@ personal:
   profiles:
     - network: LinkedIn
       username: Ranjith Kumar
-      url: https://www.linkedin.com/in/ranjithGkumar/
+      url: https://linkedin.com/in/ranjithGkumar/
     - network: GitHub
       username: ranjithG03
       url: https://github.com/ranjithG03
 
-about: Currently enrolled as 3rd year student.Hardworking and exploring new things.
+about: Currently enrolled as 3rd year student. Hardworking and exploring new things.
 
 work:
   - organization: 
@@ -39,12 +39,11 @@ education:
     endDate: 2025-06-30
     location: Kattankulathur, Tamil Nadu, India 
     honors:
-      - 9.91 CGPA
+      - 8.71 CGPA
     courses:
     highlights:
-      - "*Electives*: Embedded Systems Design, Quantum Computation, Offensive Security, GPU Programming, PCB Designing"
-      - "*Project*: Under the mentorship of Dr.K.Meenakshi, working on _Animal Detection and Alert System_, focused in 
-      optimizing deeplearning models like yolov5 and mobilenet-SSD, and writing paper on tuning hyperparameters with algorithms like `IWO` and `PSO`"
+      - "*Electives*: Data mining, Big Data Visualization, Machine Learning, Embedded Systems"
+
 
 affiliations:
   - organization: Team Rudra
@@ -62,13 +61,13 @@ awards:
   - title: Global Rank 3rd in International Rover Challenge
     date: 2024-01-29
     issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/1_ebH2MqSpNfWNbZqpe0Ak5FTrL2B_8mr/view?usp=sharing
+    url: 
     location: Coimbatore, Tamil Nadu, India
     highlights:
   - title: Global Rank 5th in International Rover Design Challenge
     date: 2023-10-20
     issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/12R4VZzB9ERelN0WwLCmrgPU3LodgBRYN/view?usp=sharing
+    url: 
     location: Chennai, Tamil Nadu, India
     highlights:
   - title: Global Rank 7th in International Rover Challenge
@@ -80,23 +79,28 @@ awards:
   - title: Global Rank 8th in International Rover Design Challenge
     date: 2022-10-29
     issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/1eOwaZb4CX9R_Low_-fd748czsYjzDUtT/view?usp=sharing
+    url:
     location: Chennai, Tamil Nadu, India
     highlights:
 
 certificates:
-  - name: "Embedded Systems Programming"
-    date: 2023-11-01
-    issuer: Microchip
-    url: https://drive.google.com/drive/folders/11TNocqWHwe8Vzv4GgQVUBax4pRYtd6Y7?usp=sharing
-  - name: "Introduction to Cybersecurity and Fundamentals of Network and Cloud Security"
+  - name: "Introduction To Data Analytics"
+    date: 2023-04-30
+    issuer: Coursera
+    url: 
+  - name: "Networking Basic Course"
     date: 2023-07-01
-    issuer: Palo Alto
-    url: https://drive.google.com/drive/folders/1f6fjV3zFfvQFF_Xvy-OlCmUJoY9FugGG?usp=sharing
+    issuer: Cisco Networking Academy
+    url: 
   - name: "Matlab Optimization onRamp"
-    date: 2023-10-27
+    date: 2023-09-27
     issuer: MathWorks
-    url: https://drive.google.com/drive/folders/1YYgTaczPAYAP2t4Me5Af5KaJXQONdPty?usp=sharing
+    url: 
+  - name: "Mechine Learning"
+    date: 2023-03-27
+    issuer: AWS Academy
+    url: 
+  
 
 publications:
   # - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
@@ -105,66 +109,30 @@ publications:
   #   url: https://example.com
 
 projects:
-  - name: Mars Rover Project
-    url: https://www.srmrudra.com
-    affiliation: Team Rudra
-    startDate: 2022-04-01
-    endDate: "present"
-    highlights:
-      - Used ROS2 middleware framework for ease of use, fast deployment and autonomous navigation
-      - Used CNN like `MobileNet-SSD` and `YOLOv5` for autonomous navigation of the rover
-      - Implemented `Kyvernitis` for `CAN` interface and modular control of the rover's sub systems
-  - name: Kyvernitis
-    url: https://github.com/waseemR02/kyvernitis
-    affiliation: Team Rudra
-    startDate: 2023-08-01
-    endDate: 2024-01-15
-    highlights:
-      - Enhanced the functionality of a rover by programming Blackpill microcontrollers to act as daughter boards, effectively managing subsystems like arm, bio-arm, astronaut’s box, etc to reduce overall system failure.
-      - Implemented `CAN` interface communication with pixhawk and later directly through 433 MHz
-      - Embraced the board‑agnostic approach inherent to Zephyr, allowing for easy customization through device tree configuration. This approach ensures that code compiles effortlessly for any Zephyr‑supported hardware board, aligning with the Linux philosophy of portability and adaptability.
-  - name: Seiri 
-    url: https://github.com/waseemR02/seiri
-    affiliation: Siemens Technology and Services Pvt. Ltd.
-    startDate: 2024-01-08
-    endDate: present
-    highlights:
-      - Working on developing a cross-platform GUI tool with `KIVY`
-      - Handles `csv`$arrow.l.r.double$`xlsx` conversions
-      - Validates files against a set of rules and constraints
-  - name: Animal Detection and Alert System
+  - name: Atm-Interface
     url: 
     affiliation: SRM Institute of Science and Technology
-    startDate: 2023-04-01
-    endDate: "present"
+    startDate: 2023-07-10
+    endDate: 2023-11-25
     highlights:
-      - Implemented different models for edge hardware ‑ `MobileNet‑SSD`, `YOLOv5` to be benchmarked for paperwork
-      - Optimizing deeplearning models like `YOLOv5` and `MobileNet-SSD`
-      - Writing paper on tuning hyperparameters with meta-heuristic algorithms like `GA`, `IWO` and `PSO`
-  - name: Alchemy
-    url: https://github.com/waseemR02/alchemy
-    affiliation: Team Rudra
-    startDate: 2023-11-01
-    endDate: 2023-12-31
+      - Create an intuitive and user-friendly graphical interface for the ATM system. Design the interface to resemble a real ATM machine, with options for withdrawing cash, depositing funds, checking balance, transferring money, and other common banking operations.
+      - Implement robust transaction handling mechanisms to ensure the security and realiability of the ATM system. Include features such as authentication (e.g., PIN verification), transaction logging, error handling , and encryption to protect sensitive user data and financial transactions.
+  - name: Restaraunt Management System
+    url: 
+    affiliation: SRM Institute of Science and Technology
+    startDate: 2023-01-20
+    endDate: 2024-05-10
     highlights:
-      - Serial communication with Atmega 328p to extract data from sensors
-      - ROS2 framework with Foxglove for Visualization of data from the sensors
-  - name: Unconfined
-    url: https://github.com/waseemR02/unconfined
-    affiliation: Team Rudra
-    startDate: 2023-12-01
-    endDate: 2023-12-31
+      - Develop a graphical interface that allows restaurant staff to efficiently manage orders from customers. This includes features such as adding new orders, modifying existing ones, marking orders as completed, and tracking order status in real-time.
+      - Implement a module within the restaurant management system to track inventory levels and automatically update them as orders are placed and fulfilled. The GUI should provide a user-friendly interface for staff to view current inventory levels, receive alerts for low-stock items, and place orders for restocking.
+  - name: Number Guessing Game
+    url: 
+    affiliation: SRM Institute of Science and Technology
+    startDate: 2022-03-25
+    endDate: 2022-06-30
     highlights:
-      - ROS2 package using ZMQ for seamless and realtime camera stream.
-      - Multithreaded to enable collection and stitching of photos while streaming
-  - name: CombinedSys
-    url: https://github.com/SHAY2407/combinedsys
-    affiliation: Team Rudra
-    startDate: 2022-04-01
-    endDate: 2022-04-30
-    highlights:
-      - Implemented a GUI Based Control for the Rover
-      - Motor Control, Sensor Data Visualization, Camera Stream integrated
+      - Create a user-friendly interface that guides players through the game, providing clear instructions and feedback at each step. Utilize graphical components such as buttons, text fields, and labels to enhance the user experience.
+      - Implement a feature that allows players to customize various aspects of the game, such as the range of numbers to guess from, the number of attempts allowed, and the difficulty level.
 
 skills:
   - category: Soft Skills
@@ -173,68 +141,39 @@ skills:
       - Critical Thinking
       - Problem Solving
       - Time Management
-      - Technical Writing
+      
   - category: Programming
     skills:
       - Python
-      - MATLAB
-      - Nodejs
-      - Typst
-      - LaTeX
       - C
-      - Rust
       - C++
-      - HTML
-      - CSS
+      - java
+
   - category: Miscellaneous
     skills:
       - Git
-      - Docker
-      - Linux
-      - Shell (bash/zsh)
-      - vim
+      
   - category: Libraries
     skills:
-      - Pytorch
-      - TensorFlow
-      - Scikit-learn
-      - OpenCV
       - Pandas
       - Numpy
-      - Matplotlib
-      - Zeromq
-  - category: Technologies
-    skills:
-      - Zephyr RTOS
-      - Embedded Systems
-      - ROS2
-      - Deeplearning
-      - Computer Vision
+      
   - category: Embedded Systems and Hardware
     skills:
-      - STM blackpill
-      - Raspberry Pico
-      - ESP32
       - Arduino
-      - Pixhawk
-      - CAN
       - UART
       - I2C
-      - SPI
+      
 
 languages:
   - language: English
     fluency: Professional proficiency
-  - language: Hindi
+  - language: Telugu
     fluency: Native Speaker
-  - language: French
-    fluency: Basic proficiency
 
 interests:
   - Video Games
-  - Anime
-  - Reading Fictional and Fantasy novels
-  - Linux
+  - Learning new things
 
 references:
   # You can comment out the entries below if you don't have any references

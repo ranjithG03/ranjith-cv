@@ -5,8 +5,8 @@
 #let uservars = (
     headingfont: "Linux Libertine",
     bodyfont: "Linux Libertine",
-    fontsize: 11pt, // 10pt, 11pt, 12pt
-    linespacing: 6pt,
+    fontsize: 10pt, // 10pt, 11pt, 12pt
+    linespacing: 5pt,
     showAddress: true, // true/false show address in contact info
     showNumber: true,  // true/false show phone number in contact info
     headingsmallcaps: false
